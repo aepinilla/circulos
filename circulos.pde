@@ -15,7 +15,7 @@ void setup() {
   background(0);
 
   minim = new Minim(this);
-  player = minim.loadFile("madpix.mp3", 1024);
+  player = minim.loadFile("time.mp3", 1024);
   player.play();
 
   fft = new FFT(player.bufferSize(), player.sampleRate());
