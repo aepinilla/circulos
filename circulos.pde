@@ -1,3 +1,6 @@
+// Ejemplo original desarrollado en P5.js por Joanne Martin
+// Adaptado por Andrés Pinilla
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 
